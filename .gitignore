@@ -54,3 +54,7 @@ profile.cov
 
 # Helm charts
 !/charts/external-dns/
+
+# Pants
+/.pants.d
+/dist
